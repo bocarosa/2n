@@ -1,119 +1,99 @@
-criaCartao(
-    'História',
-    'Quem foi Donald Trump?',
-    'Foi um presidente dos Estados Unidos.'
-)
+criacartao(
+    'Inglês',
+    'Como se fala poderia em Inglês?',
+    'Could')
 
-criaCartao(
-    'Geografia',
-    'Qual é o maior oceano do mundo?',
-    'O Oceano Pacífico.'
-)
+criacartao(
+    'Ingles',
+    'Como pedir para um garçom te trazer água?',
+    'Can i have a glass of water?')
 
-criaCartao(
-    'Ciência',
-    'Qual é o elemento químico mais abundante na Terra?',
-    'Oxigênio.'
-)
+criacartao(
+    'Ingles',
+    'Como fala "quem" em Inglês',
+    'Who')
 
-criaCartao(
-    'Matemática',
-    'Quanto é 2 + 2?',
-    'O resultado é 4.'
-)
+criacartao(
+    'Ingles',
+    'Como fala "pão" em Inglês?',
+    'Bread')
+    
+criacartao(
+    'Ingles',
+    'Como fala "você é feio" em Inglês?;',
+    'You are ugly')
 
-criaCartao(
-    'Esportes',
-    'Quem ganhou a Copa do Mundo de 2018?',
-    'A França.'
-)
+criacartao(
+    'Ingles',
+    'Como fala "matemática" em Inglês?',
+    'Math')
 
-criaCartao(
-    'Tecnologia',
-    'Quem fundou a Microsoft?',
-    'Bill Gates e Paul Allen.'
-)
+criacartao(
+    'Ingles',
+    'Como fala "cara" em Inglês?',
+    'Bro')
 
-criaCartao(
-    'História',
-    'Em que ano começou a Segunda Guerra Mundial?',
-    '1939.'
-)
+criacartao(
+    'Ingles',
+    'Como fala "crescer" em Inglês?',
+    'Grow up')
 
-criaCartao(
-    'Literatura',
-    'Quem escreveu "Dom Quixote"?',
-    'Miguel de Cervantes.'
-)
+criacartao(
+    'Ingles',
+    'Como fala "normal" em Inglês?',
+    'Regular')
 
-criaCartao(
-    'Física',
-    'O que é gravidade?',
-    'É a força que atrai os objetos para o centro da Terra.'
-)
+criacartao(
+    'Ingles',
+    'Como fala "dinheiro" em Inglês?',
+    'Money')
 
-criaCartao(
-    'Química',
-    'Qual é a fórmula da água?',
-    'H2O.'
-)
+    criacartao(
+    'Ingles',
+    'Como fala "você é linda" em Inglês?',
+    'You are beautiful')
 
-criaCartao(
-    'Astronomia',
-    'Qual é o planeta mais próximo do Sol?',
-    'Mercúrio.'
-)
+criacartao(
+    'Ingles',
+    'Como fala "sorvete" em Inglês?',
+    'Icecream')
 
-criaCartao(
-    'Geografia',
-    'Qual é a capital do Brasil?',
-    'Brasília.'
-)
+criacartao(
+    'Ingles',
+    'Como fala "eu amo você" em Inglês?',
+    'I Love you')
 
-criaCartao(
-    'História',
-    'Quem descobriu o Brasil?',
-    'Pedro Álvares Cabral.'
-)
+criacartao(
+    'Ingles',
+    'Como fala "eu não gosto de você" em Inglês?',
+    'I dont like you')
 
-criaCartao(
-    'Biologia',
-    'Qual é o maior órgão do corpo humano?',
-    'A pele.'
-)
+criacartao(
+    'Ingles',
+    'Como fala "te vejo amanhã" em Inglês?',
+    'See you tomorrow')
 
-criaCartao(
-    'Música',
-    'Quem é conhecido como o Rei do Pop?',
-    'Michael Jackson.'
-)
+criacartao(
+    'Ingles',
+    'Como fala "eu te odeio" em Inglês?',
+    'I hate you')
 
-criaCartao(
-    'Filmes',
-    'Quem dirigiu o filme "Titanic"?',
-    'James Cameron.'
-)
+criacartao(
+    'Ingles',
+    'Como fala "vamos jogar futebol" em Inglês?',
+    'Lets play soccer')
 
-criaCartao(
-    'Matemática',
-    'O que é um número primo?',
-    'É um número que só pode ser dividido por 1 e por ele mesmo.'
-)
+criacartao(
+    'Ingles',
+    'Como fala "ela é minha melhor amiga" em Inglês?',
+    'She is my best friend')
 
-criaCartao(
-    'História',
-    'Quem foi Napoleão Bonaparte?',
-    'Foi um líder militar e imperador da França.'
-)
+criacartao(
+    'Ingles',
+    'Como fala "eu quero ser legal com você" em Inglês?',
+    'I wanna be cool with you')
 
-criaCartao(
-    'Esportes',
-    'Quantos jogadores tem um time de futebol?',
-    '11 jogadores.'
-)
-
-criaCartao(
-    'Ciência',
-    'Qual é o órgão responsável por bombear sangue pelo corpo?',
-    'O coração.'
-)
+criacartao(
+    'Ingles',
+    'Como fala "ontem" em Inglês?',
+    'Yesterday')    
