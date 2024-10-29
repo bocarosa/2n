@@ -15,7 +15,7 @@ criacartao(
 
 criacartao(
     'Russo',
-    'Como fala "pão" em Inglês?',
+    'Como fala "pão" em russo?',
     'Хлеб')
     
 criacartao(
