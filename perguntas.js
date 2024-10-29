@@ -1,7 +1,7 @@
 criacartao(
-    'Inglês',
-    'Como se fala poderia em Inglês?',
-    'Could')
+    'Russo',
+    'Como se fala poderia em russo?',
+    'это могло бы')
 
 criacartao(
     'Ingles',
