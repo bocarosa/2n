@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Jersey+25&display=swap');
 
 :root{
-    --fundo:  #3b22c9;
-    --cartao-frente: #2b12d1;
+    --fundo:  #4B0082;
+    --cartao-frente: #6A5ACD;
     --cartao-verso:  #0372ce;
-    --destaque: #3800d3;
+    --destaque: #4B0082;
     --preto: #000000;
     --branco: #ffffff;
 }
