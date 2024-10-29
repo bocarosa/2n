@@ -22,6 +22,6 @@ container.appendChild(cartao);
             (resposta.style.display ='block')
         }
         else{
-resposta.style.display ='none';
+resposta.stely.display ='none';
         }
 }
