@@ -51,49 +51,49 @@ criacartao(
     criacartao(
     'Russo',
     'Como fala "você é linda" em Russo?',
-    'You are beautiful')
+    'Ты красивый')
 
 criacartao(
     'Russo',
     'Como fala "sorvete" em Russo?',
-    'Icecream')
+    'Мороженое')
 
 criacartao(
     'Russo',
     'Como fala "eu amo você" em Russo?',
-    'I Love you')
+    'Я тебя люблю')
 
 criacartao(
     'Russo',
     'Como fala "eu não gosto de você" em Russo?',
-    'I dont like you')
+    'ты мне не нравишься')
 
 criacartao(
     'Russo',
     'Como fala "te vejo amanhã" em Russo?',
-    'See you tomorrow')
+    'Увидимся завтра')
 
 criacartao(
     'Russo',
     'Como fala "eu te odeio" em Russo?',
-    'I hate you')
+    'я тебя ненавижу')
 
 criacartao(
     'Russo',
     'Como fala "vamos jogar futebol" em Russo?',
-    'Lets play soccer')
+    'Давай поиграем в футбол')
 
 criacartao(
     'Russo',
     'Como fala "ela é minha melhor amiga" em Russo?',
-    'She is my best friend')
+    'Она мой лучший друг')
 
 criacartao(
     'Russo',
     'Como fala "eu quero ser legal com você" em Russo?',
-    'I wanna be cool with you')
+    'Я хочу быть крутым с тобой')
 
 criacartao(
     'Russo',
     'Como fala "ontem" em Russo?',
-    'Yesterday')    
+    'Вчера')    
