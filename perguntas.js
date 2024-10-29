@@ -4,96 +4,96 @@ criacartao(
     'это могло бы')
 
 criacartao(
-    'Ingles',
+    'Russo',
     'Como pedir para um garçom te trazer água?',
-    'Can i have a glass of water?')
+    'Можно мне стакан воды?')
 
 criacartao(
-    'Ingles',
-    'Como fala "quem" em Inglês',
-    'Who')
+    'Russo',
+    'Como fala "quem" em russo',
+    'ВОЗ')
 
 criacartao(
-    'Ingles',
+    'Russo',
     'Como fala "pão" em Inglês?',
-    'Bread')
+    'Хлеб')
     
 criacartao(
-    'Ingles',
-    'Como fala "você é feio" em Inglês?;',
-    'You are ugly')
+    'Russo',
+    'Como fala "você é feio" em russo?;',
+    'Ты уродливый')
 
 criacartao(
-    'Ingles',
-    'Como fala "matemática" em Inglês?',
-    'Math')
+    'Russo',
+    'Como fala "matemática" em Russo?',
+    'Математика')
 
 criacartao(
-    'Ingles',
-    'Como fala "cara" em Inglês?',
-    'Bro')
+    'Russo',
+    'Como fala "cara" em Russo?',
+    'Братан')
 
 criacartao(
-    'Ingles',
-    'Como fala "crescer" em Inglês?',
-    'Grow up')
+    'Russo',
+    'Como fala "crescer" em Russo?',
+    'Расти')
 
 criacartao(
-    'Ingles',
-    'Como fala "normal" em Inglês?',
-    'Regular')
+    'Russo',
+    'Como fala "normal" em Russo?',
+    'Обычный')
 
 criacartao(
-    'Ingles',
-    'Como fala "dinheiro" em Inglês?',
-    'Money')
+    'Russo',
+    'Como fala "dinheiro" em Russo?',
+    'Деньги')
 
     criacartao(
-    'Ingles',
-    'Como fala "você é linda" em Inglês?',
+    'Russo',
+    'Como fala "você é linda" em Russo?',
     'You are beautiful')
 
 criacartao(
-    'Ingles',
-    'Como fala "sorvete" em Inglês?',
+    'Russo',
+    'Como fala "sorvete" em Russo?',
     'Icecream')
 
 criacartao(
-    'Ingles',
-    'Como fala "eu amo você" em Inglês?',
+    'Russo',
+    'Como fala "eu amo você" em Russo?',
     'I Love you')
 
 criacartao(
-    'Ingles',
-    'Como fala "eu não gosto de você" em Inglês?',
+    'Russo',
+    'Como fala "eu não gosto de você" em Russo?',
     'I dont like you')
 
 criacartao(
-    'Ingles',
-    'Como fala "te vejo amanhã" em Inglês?',
+    'Russo',
+    'Como fala "te vejo amanhã" em Russo?',
     'See you tomorrow')
 
 criacartao(
-    'Ingles',
-    'Como fala "eu te odeio" em Inglês?',
+    'Russo',
+    'Como fala "eu te odeio" em Russo?',
     'I hate you')
 
 criacartao(
-    'Ingles',
-    'Como fala "vamos jogar futebol" em Inglês?',
+    'Russo',
+    'Como fala "vamos jogar futebol" em Russo?',
     'Lets play soccer')
 
 criacartao(
-    'Ingles',
-    'Como fala "ela é minha melhor amiga" em Inglês?',
+    'Russo',
+    'Como fala "ela é minha melhor amiga" em Russo?',
     'She is my best friend')
 
 criacartao(
-    'Ingles',
-    'Como fala "eu quero ser legal com você" em Inglês?',
+    'Russo',
+    'Como fala "eu quero ser legal com você" em Russo?',
     'I wanna be cool with you')
 
 criacartao(
-    'Ingles',
-    'Como fala "ontem" em Inglês?',
+    'Russo',
+    'Como fala "ontem" em Russo?',
     'Yesterday')    
